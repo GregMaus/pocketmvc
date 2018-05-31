@@ -9,5 +9,9 @@ class Main extends PKT_Controller {
         $this->load->view('footer');
 
 	}
+
+	public function teste(){
+	    echo "opa";
+    }
     
 }
