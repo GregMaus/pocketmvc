@@ -15,6 +15,7 @@ require(ROOT_DIR . 'system/core/Controller.php');
 require(ROOT_DIR . 'system/core/Pocket.php');
 
 global $config;
+
 define('BASE_URL', $config['base_url']);
 
 Pocket();
