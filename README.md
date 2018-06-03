@@ -3,7 +3,6 @@
 Pocket MVC (aka PKT) is a simple and clean Codeigniter-based application framework, made to allow tiny projects im MVC patter.
 As you will see, its very simple to install e use.
 
-
 ## Requirements
 
 * PHP 5.1 or greater
